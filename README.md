@@ -33,7 +33,7 @@ You will have generated:
 
 ## License
 
-Copyright © 2013 Colin Logan
+Copyright © 2013 Logan Campbell
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
