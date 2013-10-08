@@ -1,4 +1,4 @@
-(defproject experement/lein-template "0.1.0-SNAPSHOT"
+(defproject experement/lein-template "0.1.0"
   :description "A Leiningen template for creating a project that will contain a
                single file. It pull pull in midje for testing but otherwise
                leave you with as small a project as possible."
