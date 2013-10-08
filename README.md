@@ -4,6 +4,8 @@ A Leiningen template for creating a project that will contain a single file. It
 pull pull in midje for testing but otherwise leave you with as small a project
 as possible.
 
+Suitable for hello worlding a new library or quickly validating an idea.
+
 ## Usage
 
 No installation is needed. Just run:
