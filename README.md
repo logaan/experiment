@@ -37,3 +37,7 @@ Copyright © 2013 Logan Campbell
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/logaan/experiment/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
